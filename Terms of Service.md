@@ -1,7 +1,7 @@
 # Terms of Service
 ###### Last Updated: March 21, 2025
 
-## Welcome to Nerd Bot! By using this bot, you agree to these Terms of Service. If you do not agree, please do not use the bot.
+### Welcome to Nerd Bot! By using this bot, you agree to these Terms of Service. If you do not agree, please do not use the bot.
 
 ### 1. Usage Requirements
 	- You must comply with Discord’s Terms of Service and Community Guidelines.
